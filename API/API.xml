@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>API</name>
+    </assembly>
+    <members>
+        <member name="T:API.Controllers.AccountController">
+            handling accounts
+        </member>
+        <member name="T:API.Controllers.UsersController">
+            Users Controller
+        </member>
+        <member name="M:API.Controllers.UsersController.GetUsers">
+            <summary>
+            GetUsers Api Get method
+            </summary>
+        </member>
+    </members>
+</doc>
